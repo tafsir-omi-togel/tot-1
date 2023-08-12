@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsir-omi-togel.github.io/tot-1/sitemap.xml
